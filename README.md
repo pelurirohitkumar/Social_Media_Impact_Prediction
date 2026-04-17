@@ -142,7 +142,5 @@ http://localhost:8501
 ---
 
 
-## 👨‍💻 Author
-
-Your Name  
+## 👨‍💻 Author 
 https://github.com/pelurirohitkumar
