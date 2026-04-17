@@ -54,8 +54,6 @@ An interactive **Streamlit web application** that predicts whether social media 
 │   └── requirements.txt
 │
 ├── .gitignore
-├── Model_Training.ipynb
-├── best_model.pkl
 └── README.md
 ```
 
