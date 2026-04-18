@@ -345,7 +345,7 @@ def inject_custom_css():
 # ----------------------------
 @st.cache_resource
 def load_model():
-    with open("best_model.pkl", "rb") as f:
+   with open("Project/best_model.pkl", "rb") as f:
         data = pickle.load(f)
     return data
 
